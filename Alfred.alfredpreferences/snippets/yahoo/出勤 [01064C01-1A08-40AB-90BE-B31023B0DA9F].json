@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "【勤怠連絡】安齋\n本日の業務を開始します。\n〇 作業時間\n　{time:short} – \n〇 作業場所\n　自宅\n〇 作業内容\n- \n〇 MTG\n    朝会、昼会",
+    "uid" : "01064C01-1A08-40AB-90BE-B31023B0DA9F",
+    "name" : "出勤",
+    "keyword" : ""
+  }
+}

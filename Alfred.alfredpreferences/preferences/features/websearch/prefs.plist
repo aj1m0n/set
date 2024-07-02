@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSites</key>
+	<dict>
+		<key>14D84C08-F38E-475D-B357-9CFBA9F27B57</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>pay</string>
+			<key>text</key>
+			<string>pay</string>
+			<key>url</key>
+			<string>https://cptl.corp.yahoo.co.jp/dosearchsite.action?searchQuery.queryString=ancestorIds%3A1668536353+AND+{query}&amp;searchQuery.spaceKey=pay</string>
+		</dict>
+		<key>8AB559FB-7D88-48F6-8A1F-5681A79A8C18</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>intra</string>
+			<key>text</key>
+			<string>intra</string>
+			<key>url</key>
+			<string>https://intra-search.corp.yahoo.co.jp/?q={query}</string>
+		</dict>
+		<key>BA92E598-2AB4-4F3C-A4C3-4A14A949C9E4</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>baymax</string>
+			<key>text</key>
+			<string>baymax</string>
+			<key>url</key>
+			<string>https://partner.git.corp.yahoo.co.jp/baymax?q={query}&amp;type=all&amp;language=&amp;sort=</string>
+		</dict>
+		<key>C76CB6AA-F776-4129-8307-55C23FE2288B</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>wintra</string>
+			<key>text</key>
+			<string>wintra</string>
+			<key>url</key>
+			<string>https://intranet-search.workers-hub.com/?q={query}</string>
+		</dict>
+		<key>E1A5FCE8-CD0C-4F30-AB83-82C24310652D</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>howl</string>
+			<key>text</key>
+			<string>howl</string>
+			<key>url</key>
+			<string>https://partner.git.corp.yahoo.co.jp/howl?q={query}&amp;type=all&amp;language=&amp;sort=</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
